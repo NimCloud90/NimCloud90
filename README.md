@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NimCloud90
 - 👀 I’m interested in learning how to program a video game, even though it looks very difficult to many, it looks fairly simple to me in concept, I just don't really know where to start lol.
-- 🌱 I’m currently learning Frontend coding (Javascript, Tailwind, all that fancy jazz).
+- 🌱 I’m currently learning Frontend coding.
 - 💞️ I’m looking to collaborate on anything if it sounds fun enough.
 - 📫 How to reach me 
 - 😄 Pronouns: she/her
