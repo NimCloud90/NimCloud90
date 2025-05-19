@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Frontend coding.
 - 💞️ I’m looking to collaborate on anything if it sounds fun enough.
 - 📫 How to reach me, here's my business email: thesillygayhats@gmail.com
+Here's also my personal one: shayleefarris@gmail.com
+
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to think I'm funny (don't worry, my partner says that I am).
 
